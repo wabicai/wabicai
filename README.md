@@ -1,47 +1,43 @@
-### Hi, I'm wabicai 👋
+# Hi, I'm wabicai 👋
 
-**BTC Holder · AI Builder · Long-termist · Optimist**
-Building hardware wallet infrastructure @ [OneKeyHQ](https://github.com/OneKeyHQ)
+**Senior Full-Stack Engineer (Frontend-Focused) @ OneKey**
 
----
+I build cross-platform wallet products and developer infrastructure. Frontend and client engineering are my main focus, with hands-on experience across backend services, commerce systems, AI agent tooling, and internal security testing.
 
-#### 🔭 What I'm working on
+## Focus Areas
 
-- Hardware wallet SDKs & firmware at **OneKeyHQ**
-- Bitcoin tooling — HWI, keeper-desktop, BLE transport
-- AI/RAG services and LLM-powered tooling
+- **Frontend & cross-platform:** React, React Native, Electron, app performance, and over-the-air updates
+- **Hardware wallet infrastructure:** shared SDK capabilities and USB/BLE device integrations
+- **Full-stack commerce:** B2B storefronts, role-aware workflows, pricing, payments, and ERP integration
+- **AI agents & developer tools:** knowledge assistants, transaction explainability, and agent workflows
+- **Security & reverse engineering:** internal security validation and application analysis
 
-#### 🌱 Tech I use daily
+## Selected Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,rust,go,vue,electron&theme=light" />
-</p>
+| Project | Focus | Core Stack |
+| --- | --- | --- |
+| [OneKey Wallet](https://github.com/OneKeyHQ/app-monorepo) | Cross-platform wallet client and product engineering | TypeScript, React Native |
+| [Hardware Wallet SDK](https://github.com/OneKeyHQ/hardware-js-sdk) | Shared device APIs and USB/BLE connectivity | TypeScript, USB, BLE |
+| B2B Partner Commerce | Storefront, operations workflows, payments, and ERP integration | Next.js, Vite, Node.js |
+| AI Agent Tooling | Developer knowledge assistants and transaction explainability | Python, FastAPI, LangChain |
 
-#### 📊 Stats
+## Tech Stack
+
+TypeScript · React · React Native · Electron · Next.js · Node.js · Python · FastAPI · PostgreSQL · Redis · USB · BLE
+
+## GitHub Activity
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=wabicai&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wabicai&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
 
-#### 🏆 Highlights
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [app-monorepo](https://github.com/OneKeyHQ/app-monorepo) | Multi-platform crypto wallet | TypeScript |
-| [hardware-js-sdk](https://github.com/OneKeyHQ/hardware-js-sdk) | JS SDK for OneKey hardware devices | JavaScript |
-| [keeper-desktop](https://github.com/wabicai/keeper-desktop) | Cross-platform desktop app for hardware wallets | Rust |
-| [onekey-rag-service](https://github.com/wabicai/onekey-rag-service) | RAG service for OneKey docs | TypeScript |
-
-#### 🐍 Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wabicai/wabicai/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wabicai/wabicai/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wabicai/wabicai/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/wabicai/wabicai/output/github-contribution-grid-snake.svg" />
 </picture>
 
-#### 📫 Connect
+## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-wabicai-181717?style=flat&logo=github)](https://github.com/wabicai)
-[![Twitter](https://img.shields.io/badge/Twitter-wabicai111-1DA1F2?style=flat&logo=twitter)](https://x.com/wabicai111)
+[GitHub](https://github.com/wabicai) · [X](https://x.com/wabicai111)
